@@ -14,7 +14,7 @@
 
 ### [ [Github](https://github.com/minsgy) ]<br/>
 
-## 🔗DEMO (미완)
+## 🔗 DEMO (미완)
 
 ## GIF
 
@@ -22,6 +22,7 @@
 
 - [x] SPA Design
 - [x] Component Design
+- [x] Fade-In Card Design
 - [x] Mobile Page Implement
 - [ ] Random Card Logic Implement
 - [ ] Github Static Web Deploy

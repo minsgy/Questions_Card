@@ -1,4 +1,5 @@
 import React from 'react';
+import FadeIn from 'react-fade-in';
 import styled from 'styled-components';
 import BGImg from '../../assets/Img/mimmi.jpeg';
 import CardComponent from './CardComponent';
@@ -9,6 +10,7 @@ const CenterContainer = styled.div`
     justify-content: center;
     align-items: center;
 `;
+
 const CenterDisplay = styled.div`
         position: fixed;
         top:0;
@@ -24,9 +26,11 @@ const Center = () => {
     return (
         <>
         <CenterDisplay />
-        <CenterContainer>
-            <CardComponent />
-        </CenterContainer>
+            <CenterContainer>
+                <FadeIn>
+                    <CardComponent />
+                </FadeIn>
+            </CenterContainer>
         </>
     );
 }
