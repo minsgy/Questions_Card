@@ -56,6 +56,7 @@ const CardText = styled.p`
     color: white;
     text-shadow: 1px 2px 3px #000;
     height: 70%;
+    line-height: 40px;
 `;
 
 const RandomButton = styled.button`
