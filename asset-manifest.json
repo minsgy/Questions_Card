@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Questions_Card/static/js/main.e907568b.chunk.js",
+    "main.js.map": "/Questions_Card/static/js/main.e907568b.chunk.js.map",
+    "runtime-main.js": "/Questions_Card/static/js/runtime-main.481654fb.js",
+    "runtime-main.js.map": "/Questions_Card/static/js/runtime-main.481654fb.js.map",
+    "static/js/2.311479b1.chunk.js": "/Questions_Card/static/js/2.311479b1.chunk.js",
+    "static/js/2.311479b1.chunk.js.map": "/Questions_Card/static/js/2.311479b1.chunk.js.map",
+    "index.html": "/Questions_Card/index.html",
+    "static/js/2.311479b1.chunk.js.LICENSE.txt": "/Questions_Card/static/js/2.311479b1.chunk.js.LICENSE.txt",
+    "static/media/mimmi.13975d5d.jpeg": "/Questions_Card/static/media/mimmi.13975d5d.jpeg",
+    "static/media/slogan.a6dd963f.png": "/Questions_Card/static/media/slogan.a6dd963f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.481654fb.js",
+    "static/js/2.311479b1.chunk.js",
+    "static/js/main.e907568b.chunk.js"
+  ]
+}
