@@ -10,13 +10,20 @@
 - 멋쟁이사자처럼 at 순천향대학교 OT 아이스 브레이킹 게임에 사용하기 위해 제작.
 - 정적 웹을 이용하여, GitHub Deploy 이용
 
-### [최민석](https://github.com/alstn2468)
+## 👨🏻‍💻제작자
 
-### [ [Github](https://github.com/minsgy) ]<br/>
+- [최민석](https://github.com/alstn2468)
+- [ [Github](https://github.com/minsgy) ]
 
-## 🔗 DEMO (미완)
+## 🔗 DEMO
 
-## GIF
+### 📱 MOBILE Page
+
+- [ [완성 페이지](https://minsgy.github.io/Questions_Card/) ]
+
+## DEMO GIF
+
+<img src="./ExampleGIF/Random.gif" height='480px'>
 
 ## 📃To Do
 
