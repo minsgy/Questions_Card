@@ -24,5 +24,5 @@
 - [x] Component Design
 - [x] Fade-In Card Design
 - [x] Mobile Page Implement
-- [ ] Random Card Logic Implement
-- [ ] Github Static Web Deploy
+- [x] Random Card Logic Implement
+- [x] Github Static Web Deploy

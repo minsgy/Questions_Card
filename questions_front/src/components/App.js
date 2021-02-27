@@ -1,7 +1,8 @@
 import React from 'react';
-import styled,{createGlobalStyle} from 'styled-components';
+import {createGlobalStyle} from 'styled-components';
 import Center from './CenterPanel/Center';
 import Footer from './FooterPanel/Footer';
+import Header from './HeaderPanel/Header';
 
 const GlobalStyle = createGlobalStyle`
 html, body, div, span, applet, object, iframe,
@@ -56,6 +57,7 @@ const App = () => {
   return (
     <div>
       <GlobalStyle />
+      <Header />
       <Center />
       <Footer />
     </div>
